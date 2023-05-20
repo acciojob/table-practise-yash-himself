@@ -4,3 +4,7 @@ table{
 	width:40vw;
 	height:20vh
 }
+
+.nested-table{
+border:1px solid rgb(0, 0, 0);
+}
